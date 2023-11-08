@@ -1,2 +1,2 @@
-# Fixing Monoliths
- Fixing Monoliths, by BPB Publications
+# Principles of Software Architecture Modernization
+ Principles of Software Architecture Modernization, by BPB Publications
