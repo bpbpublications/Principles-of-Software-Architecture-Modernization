@@ -1,0 +1,1 @@
+sealed public class Payments permits Check, WireTransfer, DigitalBank {}

@@ -1,0 +1,6 @@
+HTTP/1.1 200 
+Content-Type: application/json
+Content-Length: 1162
+Date: Thu, 23 Mar 2023 06:32:11 GMT
+
+{"openapi":"3.0.1","info":{"title":"OpenAPI definition","version":"v0"},"servers":[{"url":"http://localhost:8080","description":"Generated server url"}],"paths":{"/service/profile/user/{id}":{"get":{"tags":["profile-controller"],"operationId":"getUserById","parameters":[{"name":"id","in":"path","required":true,"schema":{"type":"string","format":"uuid"}}],"responses":{"200":{"description":"OK","content":{"*/*":{"schema":{"$ref":"#/components/schemas/User"}}}}}}},"/service/profile/user/batch/{ids}":{"get":{"tags":["profile-controller"],"operationId":"getUserByIds","parameters":[{"name":"ids","in":"path","required":true,"schema":{"type":"array","items":{"type":"string","format":"uuid"}}}],"responses":{"200":{"description":"OK","content":{"*/*":{"schema":{"type":"array","items":{"$ref":"#/components/schemas/User"}}}}}}}},"/service/profile/":{"get":{"tags":["profile-controller"],"operationId":"index","responses":{"200":{"description":"OK","content":{"*/*":{"schema":{"type":"string"}}}}}}}},"components":{"schemas":{"User":{"type":"object","properties":{"id":{"type":"string","format":"uuid"},"createdAt":{"type":"string"},"email":{"type":"string"}}}}}}

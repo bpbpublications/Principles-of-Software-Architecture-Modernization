@@ -1,0 +1,6 @@
+/mnt/e35d88d4-42b9-49ea-bf29-c4c3b018d429/diego/git/diegopacheco/fixing-monoliths-book/chapter6/openapi-contract/src/main/java/com/github/diegopacheco/fixingmonoliths/contract/v1/ProfileContract.java
+/mnt/e35d88d4-42b9-49ea-bf29-c4c3b018d429/diego/git/diegopacheco/fixing-monoliths-book/chapter6/openapi-contract/src/main/java/com/github/diegopacheco/fixingmonoliths/controller/ProfileController.java
+/mnt/e35d88d4-42b9-49ea-bf29-c4c3b018d429/diego/git/diegopacheco/fixing-monoliths-book/chapter6/openapi-contract/src/main/java/com/github/diegopacheco/fixingmonoliths/converter/StringToListUUID.java
+/mnt/e35d88d4-42b9-49ea-bf29-c4c3b018d429/diego/git/diegopacheco/fixing-monoliths-book/chapter6/openapi-contract/src/main/java/com/github/diegopacheco/fixingmonoliths/contract/v1/User.java
+/mnt/e35d88d4-42b9-49ea-bf29-c4c3b018d429/diego/git/diegopacheco/fixing-monoliths-book/chapter6/openapi-contract/src/main/java/com/github/diegopacheco/fixingmonoliths/converter/StringToUUIDConverter.java
+/mnt/e35d88d4-42b9-49ea-bf29-c4c3b018d429/diego/git/diegopacheco/fixing-monoliths-book/chapter6/openapi-contract/src/main/java/com/github/diegopacheco/fixingmonoliths/Application.java

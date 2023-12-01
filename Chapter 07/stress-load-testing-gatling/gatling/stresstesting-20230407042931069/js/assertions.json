@@ -1,0 +1,10 @@
+{
+  "simulation": "com.github.diegopacheco.fixingmonoliths.book.stress.StressTesting",
+  "simulationId": "stresstesting-20230407042931069",
+  "start": 1680841772036,
+  "description": "",
+  "scenarios": ["BasicSimulation"],
+  "assertions": [
+
+  ]
+}

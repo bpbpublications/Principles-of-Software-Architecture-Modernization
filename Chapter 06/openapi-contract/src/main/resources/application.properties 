@@ -1,0 +1,3 @@
+springdoc.swagger-ui.operationsSorter=method
+springdoc.show-actuator=true
+springdoc.packagesToScan=com.github.diegopacheco.fixingmonoliths
